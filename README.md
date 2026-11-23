@@ -24,3 +24,8 @@ One train/test split, no tuning, no cross-validation. These are first results.
 2. Open `house_price_analysis.ipynb` in Jupyter and run all cells.
 
 Tools: Python, Pandas, Matplotlib, Seaborn, scikit-learn.
+
+## Dashboard
+A Tableau dashboard of the same data: average "price by neighborhood", "price vs living area" and "price by overall quality". Only a screenshot is shown here, because the Kaggle competition rules do not allow sharing the competition data.
+
+![House price dashboard](dashboard.png)
